@@ -6,6 +6,6 @@ app.get("/health", (req, res) => {
     res.send("ok")
 });
 
-app.listen(5001, () => {
-  console.log("Running on 5001");
+app.listen(4002, () => {
+  console.log("Running on 4002");
 });
