@@ -23,4 +23,4 @@ docker run -p PORT_HOST:4002 IMAGE_ID
 ```
 obs: You have to select an empty port to put on "PORT_HOST".
 
-## To see if it worked just go to any navigator and access https://localhost:PORT_HOST/health.
+To see if it worked just go to any navigator and access https://localhost:PORT_HOST/health.
